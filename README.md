@@ -1,0 +1,1 @@
+# levono-y520-efi
