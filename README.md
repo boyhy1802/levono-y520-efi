@@ -4,7 +4,7 @@ Monterey 12.6 EFI for Lenovo Legion Y520
 Working:
 - iGPU
 - Intel Wifi
-- Bluetooth (tested only Apple devices, other should work too)
+- Bluetooth
 - Audio
 - Camera
 - Keyboard & touchpad
